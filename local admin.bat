@@ -1,1 +1,0 @@
-wmic UserAccount where Name="scan" set PasswordExpires=False
